@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.unity.ads"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="1"
+8-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+9        android:targetSdkVersion="19" />
+9-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml
+10
+11    <application>
+11-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:3:3-7:17
+12        <uses-library
+12-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:4:5-84
+13            android:name="org.apache.http.legacy"
+13-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:4:44-81
+14            android:required="false" />
+14-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:4:19-43
+15
+16        <meta-data
+16-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:5:5-130
+17            android:name="com.google.android.gms.ads.APPLICATION_ID"
+17-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:5:16-72
+18            android:value="ca-app-pub-3940256099942544~3347511713" />
+18-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:5:73-127
+19        <meta-data
+19-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:6:5-108
+20            android:name="com.google.android.gms.ads.DELAY_APP_MEASUREMENT_INIT"
+20-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:6:16-84
+21            android:value="true" />
+21-->C:\Users\Andres\Desktop\proyectos_unity\falling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml:6:85-105
+22    </application>
+23
+24</manifest>
